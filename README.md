@@ -1,16 +1,29 @@
-# home_cleaning
+# Home Cleaning UI
 
-A new Flutter project.
+Home cleaning Ui in Flutter
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### 1. Copy or Download code in your system 
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/om-chauhan/Home-Cleaning-UI-in-Flutter.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### 2. Got To Directry
+```
+cd Home-Cleaning-UI-in-Flutter
+```
+#### 3. Run Flutter App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
+
+## Screenshot
+| Screen        |  
+| :-------------: |
+| ![Google Search Clone](/screenshot/screenshot.png)     | 
+
+
